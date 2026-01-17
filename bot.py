@@ -7,7 +7,7 @@ import time
 from datetime import datetime
 from threading import Thread
 
-TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"
+TOKEN = "TOKEN_GOES_HERE"
 bot = telebot.TeleBot(TOKEN)
 
 REM_FILE = "userdatatime.txt"
